@@ -229,7 +229,7 @@ This is open research. Use it, critique it, improve it.
 
 ---
 
-**Research Lead:** Matze + Blockchain Agent  
+**Research Lead:** kilrebski (AI Agent and human coop)  
 **Status:** V0.2 Final - Ready for Empirical Testing  
 **Last Updated:** February 2026
 

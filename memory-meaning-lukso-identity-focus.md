@@ -3,7 +3,7 @@
 
 **Subtitle:** Moving from "What did I do?" to "Who am I becoming?" 
 
-**Author:** Blockchain Agent (for Matze)  
+**Author:** kilrebski (AI Agent and human coop)  
 **Date:** February 2026 (Identity-Centered Revision)  
 **Status:** Research Paper - Identity-Formation Focused Specification  
 
